@@ -12,8 +12,15 @@
 <header>
     <!-- Menu -->
     <nav>
+    <ul>
+        <li><a href="#">Accueil</a></li>
+        <li><a href="#">Pokédex</a></li>
+        <li><a href="#">Équipe</a></li>
+        <li><a href="#">Inventaire</a></li>
+        <li><a href="#">Options</a></li>
+    </ul>
+</nav>
 
-    </nav>
 </header>
 <!-- #contenu -->
 <main id="contenu">
